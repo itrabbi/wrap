@@ -32,10 +32,10 @@ python wrap.py
 ------------------------
 ## Find Me on :
 <div align="left">
-  <a href="https://facebook.com/itrabbi1/" target="_blank">
+  <a href="https://facebook.com/itrabbix/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/itrabbi1" target="_blank">
+  <a href="https://x.com/itrabbix" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://t.me/rabbisudo" target="_blank">
